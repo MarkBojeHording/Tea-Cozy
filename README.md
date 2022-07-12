@@ -1,1 +1,1 @@
-# Tea-Cozy
+# Tea-Cozy project from Codeacademy tutorial.
